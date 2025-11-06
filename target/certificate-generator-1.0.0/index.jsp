@@ -144,7 +144,7 @@
     <!-- Footer -->
     <footer class="bg-dark text-light py-4">
         <div class="container text-center">
-            <p>&copy; 2024 Certificate Generator System. All rights reserved.</p>
+            <p>&copy;Made by @ayushpremrocks</p>
         </div>
     </footer>
 
